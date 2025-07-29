@@ -20,8 +20,6 @@ Example usage in HTML:
 ```
 
 
-## License & Attribution
-
 ## Licensing & Attribution
 
 The audio files in this repository were generated using the AI voice from [Abair.ie](https://abair.ie/), then converted to MP3 format and uploaded here for convenience. For creating your own audio files with personalised words or phrases, please visit [Abair.ie](https://abair.ie/).
